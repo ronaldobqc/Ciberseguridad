@@ -1,0 +1,63 @@
+El encargado de ciberseuridad debe estar en constante aprendizaje
+aproximadamente para el ano 2022 habran alrededor de 1.8 millones de trabajos disponibles para esta area
+lo primero que se debe hacer es identificar el problema
+preguntarse que impacto tiene, determinar el alcance
+que tipo de respuesta hacemos y si podemos automatizarla para futuras complicaciones
+es un evento aislado?
+hay individuos que notificar para obtener resuesta?
+Tenemos que trabajar con socios que trabajen co sistemas conectados al nuestro?
+
+
+Segun el Instituto nacional de normas y tecnologia NIST existen las siguietes defiiciones
+Seguridad de la informacaion: Proteccion de Sist. Infor. de actividades no autorizadas para proporcionar
+confidencialidad, integridad y disponibilidad => triada de la CIA
+
+CONFIDENCIALIDAD privacidad, para acceso confidencial a recursos o datos restringidos a determinados entidades auorizadas (cifrado de datos)
+INTEGRIDAD	Consistencia y presicion de s datos en su ciclo de vida, los datos no deben modificarse en transito  y nadie realice cambios (Comparacion de HASH)
+DISPONIBILIDAD	Requiere mantenimiento de hardware y software y entornos de SO, mantener las operaciones comerciales corriendo, firewall, proxy, 
+		computadoreas todo funcionando 24/7 (recovery, backups y redundancia)
+
+
+VULNERABILIDAD		falla o error que puede ser explotado para violar  la politica de seguridad
+AMENAZA			evento natural o artificial que puede causar  un impacto negativo en una organizacion
+EXPLOIT			Forma definida de violar la seguridad  de un sistema TI atraves de una vulnerabilidad
+RIESGO			Probabilidad de que un evento pueda suceder
+
+AMENAZAS DE SEGURIDAD
+
+FACTORES HUMANOS
+	factores internos	exempleados, empleados actuales
+	externos		eventos maliciosos, hackers, crackers, virus, troyanos, gusanos
+FACTORES NATURALES		Rayos, huracanes, tornados, tsunamis
+
+EVALUACION DE VULNERABILIDAD: Proceso de identificar, evaluar y clasificar vulneravilidades mediante una herramienta
+
+ROLES EN UNA ORGANIZACION DE CIBERSEGURIDAD
+Director de seguridad de la informacion: supervisar administrar y ser el lider, jefe del departamento de seguridad
+Arquitecto de seguridad de la informacion
+Analista de seguridad:		encargado de analizar eventos, alertas alarmas, verificar instancias o  analizar eventos registrados por un sem
+Auditor de seguridad : probar la efectividad de los sistemas de inform para asegurarse de que sigan las mejores practicas, sigue estandares como regulaciones especificas ISO27001 o 002
+pentester- probador de penetracion RED TEAM
+analista forence BLUE TEAM
+
+Se aseguran de que la organizacion siga buenas practicas y estandares de seguridad
+
+La primera politica para el campo de la ciberseguridad fue realizada por Ronald Regan debido a una pelicula llamada juegos de guerra
+llamado La politica nacional de telecomunicaciones y automatizado Seguridad de sistemas de informacion NSDD155
+Como podemos prevenir otro evento como el del 11/09? como podemos evitar una amenaza cibernetica? politica denominada guerra contra el terrorismo
+
+GUERRAS CIBERNETICAS
+CLipper chip: implantar chips en telefonos en familias de EEUU
+Moonlight maze: Intercepcion de comunicaciones
+Solar sunrise:	Aprovechar vilnerabilidades de red para instalar una puerta trasera para regresar despues
+Buckshoot Yankee:	Uso de un troyano para inabilitar una planta de energia nuclear en irank
+Desert storn: 	Destruccion o inhabilitacion de radares militares que alertaban a las bases de ataques,
+Bosnia: 	Divulgacion de informacion falsa
+
+alrededor de 6.000 y 10000 vulneravilidades entre 2010 y 2016
+
+ciberataques => 	400 mil millones
+cibercrimen  => 	100 mil millones
+Datoss perdidos =>	2.1 mil millones
+
+en 2018 +140000 vulnerabilidades
