@@ -1,3 +1,5 @@
+APUNTES MARTES 21-JULIO-2020
+
 El encargado de ciberseuridad debe estar en constante aprendizaje
 aproximadamente para el ano 2022 habran alrededor de 1.8 millones de trabajos disponibles para esta area
 lo primero que se debe hacer es identificar el problema
@@ -61,3 +63,48 @@ cibercrimen  => 	100 mil millones
 Datoss perdidos =>	2.1 mil millones
 
 en 2018 +140000 vulnerabilidades
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+APUNTES MIERCOLES 22-JULIO-2020
+
+Todas las personas que tienen un smartphone o computadora que estan en internet esta enviando y recibiendo datos constantemente
+Se estima que la informacion que cada persona ya tiene divulgada en internet cuesta a rededor de 1000$ segun DATUM
+Ante todo debemos preocuparnos por la proteccion de datos dentro de los activos (celular, computadora tablet etc) con metodos de autenticacion para aumentar lo mecanismos de control de acceso
+Ahora tratamos con empresas globales  donde debemos proteger cada uno de los negocios, oficinas etc y entender no solo cosas tecnicas sino tambien  administrativas como las politicas en los paises y demas. En el pasado existian pocos proveedeores especificos, ya sean de computadores, servidores, equipos de red o ISP proveedores de acceso a internet pero actualmente contamos con un sin fin de empresas y nosotros debemos entender esas tecnologias con el fin de 
+proteger la infraestructura que tenemos en nuestra empresa
+
+Consideracoines: tenemos que tener un programa de seguridad (arquitectura integral de ciberseguridad) identificar riesgos y amenazas alas que nos enfrentamoos, necesitamos evaluar monitorear  y controlar esos riesgos.
+GESTION DE ACTIVOS: Luego tenemos que admnistrar los activos (documentos, sistemas) asegurarse que cumplan CIA, (clasificación, pasos de implementación, control de activos y documentación)
+CONTROLES TECNICOS: Implementar no solo controles tecnicos (infraestructura de red, puntos finales, servidores, gestión de identidad, gestión de vulnerabilidades, monitoreo y registro) sino
+CONTROLES ADMINISTRATIVOS: adminnistrativos (politicas, procedimientos, equipos de respuesta) (políticas, procedimientos, estándares, educación del usuario, respuesta a incidentes, recuperación ante desastres, cumplimiento y seguridad física)
+
+CIA
+Confidencialidad: solo el emisor y el receptor entienden el mensaje, asociado a esto esta la autenticacion donde se tiene que confirmar la identidad del otro antes de enviar el mensaje
+Integridad: deben asegurarse que el mensaje no haya sido cambiado
+Disponibilidad: disponibilidad para que la empresa pueda operar  de acuerdo alas especificaciones
+
+ACTORES PRINCIPALES del cibercrimen
+Estan A, B y T dode A desea enviar un mensaje a B a travez de un canal o medio y para asegurar el mensaje este es cifrado, dentro del canal estan los datos: a quien va y qcual es su dereccion.
+SEGURIDAD INFORMATICA: La protección brindada a un sistema automatizado de información, para lograr los objetivos aplicables de preservar la integridad, disponibilidad y confidencialidad de recursos del sistema de información. Incluye hardware, software, firmware, datos de información y telecomunicaciones.
+
+
+POR QUE LA ARQUITECTURA INTEGRAL DE CIBERSEGURIDAD ES DIFICIL DE IMPLEMENTAR
+Los clientes tienen requisitos simples, que puede ser la autenticacion de todos los usuarios en la empresa pero detras de eso la solucion viene a ser complicada.
+Lasolucion brindada podria ser atacada: existe el principio de punto de aplicacion o SEP	
+
+Estas estructuras de aplicacion llegan a ser un objetivo como los datos reales, La seguridad no es tan simple como parece, La protección de la estructura de aplicación puede complicar las soluciones
+
+TOPOLOGIA
+GESTION DE CLAVES
+
+lA ARQUITECTURA DE SEGURIDAD DEBE SER FLEXIBLE para poder proteger el 100% del tiempo sin embargo los atacantes solo necesitan ser acertados una sola vez paratener exito, hay una desproporcionalidad del exito entre atacantes y protectores
+
+FILOSOFIA DEL CINTURON DE SEGURIDAD
+
+Debido al constante lanzamiento de aplicaciones con vulnerabilidades e implantacion de nuevos modulos en sistemas de informacion o de seguridad el trabajo se hace mas dificil y, nuestros mecanismos de defensa, nuestras arquitecturas de seguridad también necesitan ser muy móviles, muy ágil para adaptarse y para cambiar a estos ataques cambiantes
+
+
+
+
+
