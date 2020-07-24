@@ -104,6 +104,45 @@ FILOSOFIA DEL CINTURON DE SEGURIDAD
 
 Debido al constante lanzamiento de aplicaciones con vulnerabilidades e implantacion de nuevos modulos en sistemas de informacion o de seguridad el trabajo se hace mas dificil y, nuestros mecanismos de defensa, nuestras arquitecturas de seguridad también necesitan ser muy móviles, muy ágil para adaptarse y para cambiar a estos ataques cambiantes
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+APUNTES JUEVES 23 JULIO 2020
+
+FUNDAMENTOS DEL PENSAMIENTO CRITICO: Pensamiento decidido dirigido a una meta, nos obligan a pensar y actuar en situaciones donde o hay respestas claras y donde no hay procedimentos especificos establecidos, las propias habilidades de razonamietno y decisiones inteligetes son muy importantes para esta area y la informacion acerca de los problemas no es tan facil de encontrar en google y hasta puede llegar a ser abrumadora
+
+El  problema del elevador: encuadre problematico y se puede cambiar cambiando el espacio de solucion
+
+hay que combinar el pesamiento con la comprension de los fundamentos de ciberseguridad para responder ante cualquier futura situacion
+principios del pensamiento critico: 
+Personalidad: producto de educacion, experiencias de vida, experiencias laborales
+Teoria y conocimiento: habilidades intelectuales, todo lo recopilado en estudios y experoancia en proyectos
+Ser interpersonal: Habilidades de relacion con otras personas y trabajo en equipo, compartir informacion 
+Habilidades tecnicas: Ingenieria inversa, hablidades en el uso de herramientas como wireshark, etc
+
+5 habilidades clave del pensamiento critico
+desafiando suposiciones:	cuestionar tu modelo mental, ver otras perspectivas de personas, enumerar todas las suposiciones posibles y cuestionarlos, 					examinarlos
+considerar alternativas:	evitar encerrarse en una opcion, ver diferentes perspectivas (quien, que, donde, cuando, por que y como) 6W
+evaluar datos:			evaluar datos contra multimples hipotesis para ver que tan bie encajan
+identificar impulsores clave:	encriptacion, autenticacion...  cuales son las capacidades tecnidcas del adversario, sus moticaciones, etc, es personal o politico
+comprender el contexto:		contextos del entorno, universidad, empresa, perspectivas de los gerentes colegas, que necesitan de mi? como explico el problema?
+				Puedes ponderte en los zapatos de otra persona? replantear el problema? entonces el espacio de solucion es diferente
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
