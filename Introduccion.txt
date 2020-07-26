@@ -127,16 +127,74 @@ identificar impulsores clave:	encriptacion, autenticacion...  cuales son las cap
 comprender el contexto:		contextos del entorno, universidad, empresa, perspectivas de los gerentes colegas, que necesitan de mi? como explico el problema?
 				Puedes ponderte en los zapatos de otra persona? replantear el problema? entonces el espacio de solucion es diferente
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+APUNTES SABADO 25 DE JULIO 2020
+
+TIPOS DE ATACANTES:
+HACKERS: Pagados o no por una organizacion externa
+USUARIS INTERNOS: No usar documentos confidenciales fuera de la red segura de la empresa
+HACKTIVISTAS: No on pagados, son acciones para presionar a un adesicion en particular.
+GOBIERNOS: no suelen tener intenciones financieras, normalmente quieren espiary entender lo que esta sucecdiendo en el pais
+
+MOTIVACIONES:
+POR JUEGO: Demostrar habilidades o hacerlo como diversion
+POR DINERO Sobornar con dinero
+ACCIONES Y MOVIMIENTOS POLITICOS: No estar de acuerdo con desiciones del gobierno
+CONTRATAME:	Demostrar vulnerabilidades del sistema para demostrar ser capaces y proponer parches
+
+Organizaciones de hackers:
+Fancy Bears
+Laser
+Look sec
+guardianes de la paz
+Agensia de seguridad Nacional
+
+Atackes 
+2011 consolas de playstation
+2013	Atackes de singapour como modo de protesta
+2014	Ebay, linkedin, homedepot gobiernos
+2015	target, mas de 100 millonesd de credito de tarjetas
+2016	Netflix, twiter, eeuu, cnn
+2017 NSA,EMOTET
+
+DEFINICION DE ATAQUE DE SEGURIDAD
+
+Ataques pasivos: Ataque de espionaje, captura de mensajes fuera del canal de comunicacion, analisis de trafico, 
+Estos son dificiles de detectar por que cumplen con los criterios de seguridad, sin embargo son peligrosos por ser informacion confidencial y podria ser delicada, al no ser edtectadas pueden realizarse durante anios
+Ataques activos: influyen alguna modificacion del flujo de datos o creacion de una historia falsa: pueden ser de cuatro categorias:
+	Mascarada: mascara de un extremo para parecer otro
+	Reproduccion, repeticion: 
+	Modificacio de los mensajes: cambiar horas, informes etc
+	Denegacion de servicios: el mensaje nunca llega
+
+SERVICIOS DE SEGURIDAD
+Network Security Essentials, Solicitud y normas escritas por William Stallings
+Un servicio de seguridad brinda un tipo especifico de proteccion a un reurso del sistema, son implementacion tecnica de politicas de seguridad.
+Mejora la seguridad de sistemas de procesamiento de datos y transferencia de informacion en una organizacion
+
+el objetivo de la estructura de seguridad es proporsionar mecanismos defensivos contra un ataque
+Servicios de seguridad X800 tiene 6 elementos:
+Autenticacion: corroboracion de la identidad
+Control de acceso: capacidad de limitar y controlar accesos a sistemas. identificacion y autorizacion (basado en roles)
+confidencialidad de datos  
+Integridad de datos
+No repudiacion: ambos no pueden negar que se hizo la transaccion
+Disponibilidad recursos accesibles y utilizables
+
+MECANISMOS DE SEGURIDAD
+Politicas de seguridad: como lo vamos a hacer es derivado de una politica comercial
+Punto de aplicacion: implementacion
+(identificacion, autenticacion, autorizacion)
+
+MODELO DE SEGURIDAD DE RED
+El mundo se esta volviendo mas conectado, nesecita mas seguridad
 
 
-
-
-
-
-
-
-
-
+ATAQUE
+La itencion de un humano para violar la seguridad, sin importar si tiene exito o no
+atauqes pasivos como la intersepcion de mensajes (ataque de divulgacion) y analisis de trafico (analisis de frecuencia y tamanio de mensajes)
+ataque de suplantacion atauq de integridad(cuando noo se manda a tiempo)
 
 
 
