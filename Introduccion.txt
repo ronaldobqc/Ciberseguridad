@@ -196,6 +196,47 @@ La itencion de un humano para violar la seguridad, sin importar si tiene exito o
 atauqes pasivos como la intersepcion de mensajes (ataque de divulgacion) y analisis de trafico (analisis de frecuencia y tamanio de mensajes)
 ataque de suplantacion atauq de integridad(cuando noo se manda a tiempo)
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+APUNTES DOMINGO 26-JULIO-2020
+
+MALWARE Y SUS TIPOS
+
+codigo malicioso o malware es un software no deseado o no autorizado para que se ejecute, suelen ocultarse mientras utilizan los recursos, los tipos que hay son:
+*virus: codigo malicioso que se propaga entre computadoras al adjuntarse y replicarse a otros archivos, requiere de interaccion con ell usuario
+*gusanos: malware autoreplicable, su objetivo es difundir y paralizar recursos
+*troyano: malware oculto que suele permitir un acceso de ataque
+*spyware: rastrear e informar el uso del host o recopilar datos
+*Adware: codigo que muestra o descarga anuncios no solicitados
+*RAT (Herramientas de accceso remoto): permite al atacante tener acceso no autorizado y control de la pc
+*rootkit: permite control parcial o completo de un sistema
+
+RANSOMEWARE: infecta el equipo y restringe el acceso al equipo o a lo datos y suele servir para extorcionnar a los duennos
+
+botnets: conjunto de host comproetidos pararealizarun ataque
+keylogger: registra cada pulsacion de tecla del usuario
+bombas logicas: a tiempo de cumplirse la condicion se ejecuta, borrando datos o corrompiedo el sistema
+APT (amenazas persistente avanzada): acceder y monitorear la red
+
+COMO PROTEGERNOS?
+Controles tecnicos: Antivirus, sistemas de interoperabilidad, sistemas de deteccion interna, sistemas unificados de gestion de amenazas. actualizacionnes
+Controles operacionales o administrativos: politicas que son reglas, entrenamiento o capacitacion, revision y seguimiento de lo antes mencionado.
+
+MAPEO DE RED
+Escaneo de la red para averiguar direcciones, servicios y dispositivosn contramedida: registro de trafico de entrada
+
+ANALISIS DE PAQUETESS
+reviciones periodicas de la tarjeta NIC y conmutadores
+
+SUPLANTACION DE IP
+datagramas como solucion temporal, filtrado de entrada
+
+DENEGACION DE SERVICIO
+Inundacion de paquetes generados maliciosamente, se puede prevenir con un filtrado inteligente de paquetes
+
+INSERCIONES DE HOST EN LA RED
+mantener un inventario de host por direcciones mac
+
 
 
 
