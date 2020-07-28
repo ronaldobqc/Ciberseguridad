@@ -237,10 +237,25 @@ Inundacion de paquetes generados maliciosamente, se puede prevenir con un filtra
 INSERCIONES DE HOST EN LA RED
 mantener un inventario de host por direcciones mac
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
+APUNTES MARTES 28 DE JULIO
 
+CADENA DE CIBERASESINATOS
 
+RECONOCIMIENTO: identificacion de vilneravilidades
+ARMAMENTO:
+ENTREGA: 
+EXPPLOTACION:
+INSTALACION:
+COMANDO Y CONTROL:
+OBJETIVOS EN ACCION
 
+INGENIERIA SOCIAL
+Metodo de engano de obtener que alguien haga algo que no quiere hacer, como lograr que alguien te de algo que es privado
+
+Phishing y vishing
+herramienta gophish
 
 
 
