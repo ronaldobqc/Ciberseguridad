@@ -129,6 +129,13 @@ comprender el contexto:		contextos del entorno, universidad, empresa, perspectiv
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
+
+
+
+
+
+
 APUNTES SABADO 25 DE JULIO 2020
 
 TIPOS DE ATACANTES:
@@ -255,7 +262,21 @@ INGENIERIA SOCIAL
 Metodo de engano de obtener que alguien haga algo que no quiere hacer, como lograr que alguien te de algo que es privado
 
 Phishing y vishing
-herramienta gophish
+herramienta gophish sirve para crear duplicados de paginas web y hacer pruebas en la empresa si el personal fue capacitado efectivamente
+vishing consta en ingenieria socal a traves de una llamada, utilizando la voz
+
+GUERRA CIBERNETICA
+Suelen sucitarse entre gociernos o grupos de personas contratadas por un gobierno. Libro sugerencia: Cuenta al dia 0
+
+RECURSOS DE CIBERCRIMEN
+X-force
+Informe de violacion de datos
+
+
+
+
+
+
 
 
 
