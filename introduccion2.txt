@@ -1,0 +1,12 @@
+APUNTES VIERNES 31 DE JULIO DE 2020
+
+Triada CIA significan todo en ciberseguridad
+Elementos clave que nos permiten la confidencialidad son autenticacion, control de acceso, seguridad fisica, cosas que nos permitan cierto nivel de restriccionn , a nuestros datos,
+nuestros sistemas o tecnologia y activos
+Integridad es que todos los datos, toda la informacion y todos los sistemas no sean alterados p modificados por ningun usuario o agente en el transito o mientras se utilisa el sistema
+Para garantizar la integridad se hace el uso de hashes que son un algoritmo matematico que generan una firma digital del archivo
+Disponibilidad cualquier dato debe estar disponible cuando se lo necesite, nesecitamos usar copias de respalo y balanceadores de carga para no interrumpir la disponibilidad
+NO REPUDIO
+es la prueba de que la identicad del remitente o del reseptor no son modificados, probar o demostrar que el que envia el mensaje realmente es quien dice, esto se suele hacer
+mediante firmas digitales
+
