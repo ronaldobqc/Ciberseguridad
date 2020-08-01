@@ -10,3 +10,13 @@ NO REPUDIO
 es la prueba de que la identicad del remitente o del reseptor no son modificados, probar o demostrar que el que envia el mensaje realmente es quien dice, esto se suele hacer
 mediante firmas digitales
 
+AUTORIZACION: Proceso de permitir a alguien el acceso a un objetivo especifico. se puede restringir por
+grupos,
+tiempo, o fechas
+ubicacion especifica
+transacciones
+
+NECESIDAD DE SABER
+
+sIGN UP En la mayoria de los sistemas se pide una identidad y autenticacion donde la identidad es nombre de usuario unico y para la autenticacion es la contrasena
+Control de acceso discresinales: permite a los usuarios dar acceso a sus datos a quienes quieram
