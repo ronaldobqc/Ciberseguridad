@@ -20,3 +20,46 @@ NECESIDAD DE SABER
 
 sIGN UP En la mayoria de los sistemas se pide una identidad y autenticacion donde la identidad es nombre de usuario unico y para la autenticacion es la contrasena
 Control de acceso discresinales: permite a los usuarios dar acceso a sus datos a quienes quieram
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+APUNTES LUNES 3 DE AGOSTO D 2020
+
+REPUESTA A LA INCIDENCIA
+Es un proceso gestionado que generara informacion de nuestros incidentes, entender como paso, como lo prevenimos y como restauramos los servicios lo mas antes posible to ello conlleva la gestion de incidentes
+
+primero ocurre un evento, algo que cambio el comportaiento normal del sistema o de la red, un incidente es la parte negativa del evento para responder a este tipo de eventeos existe el CIRT CERT o equipo de respuesta ante incidentes donde primero se lo debe identificar una parte importante de este equipo es el proceso de investigacion necesitan entender lo que paso necesitan recolectar evidencia, mantener la cadena de custodia de ese incidente para entender l que paso
+
+CONCEPTOS CLAVE
+
+Proceso de descubrimiento electronico    
+es conocer toda la tecnologia utilizada en nuestros equipos sistemas y red, identficar la informacion que posee cada una y estar al tnto de que datos son mas iportante s que otros, retencion de datos , copias de seguridad 
+
+BCP es un plan de continuidad comercial o del negocio,     
+es un plan que se debe implementar en la empesa para prevenir o guiar a toda la empresa cuando este tipo de situacion ocurra para que el negocio continue
+
+La recuperacion ante desastres       
+son los procedimients d que debemos seguir para recuperar los servicios o las areas afectadas y tambien para informar al CEO o al publico que el servicio no estara disponible por un tiempo o se encuentra interrumpido
+
+Post incidente                  
+una vz solucionado el incidente se debe averiguar si fue un incdente aislado o no y cual es el causante de la falla e implementar medidas necesarias para que ello no vuelva a ocurrir, actualizaciones de sistema, parches de seguridad, etc
+necesitamos entender que es un error, que es un problema y que es un incidente aislado
+
+Lecciones aprendidas o informes a partir de los incidentes para 
+
+PROCESO DE RESPUESTA
+
+CREST define tres fases en el proceso de respuesta ante incidentes que son 3:
+PREPARARSE:   entender con que sistemas tratamos, proceso de descubrimiento electronico
+RESPONDER:    aplicar los planes de recuperacion ante desastres y el plan de contiuidad del negocio
+SEGUIMIENTO   o investigacion para determinar las causas, que controles adicionales se deberia implementar
+
+
+
+
+
+
+
+
+
+
