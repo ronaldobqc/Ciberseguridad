@@ -54,6 +54,46 @@ PREPARARSE:   entender con que sistemas tratamos, proceso de descubrimiento elec
 RESPONDER:    aplicar los planes de recuperacion ante desastres y el plan de contiuidad del negocio
 SEGUIMIENTO   o investigacion para determinar las causas, que controles adicionales se deberia implementar
 
+INTRODUCCION A MARCOS Y MEJORAS PRACTICAS
+Estandares de seguridad y cumplimiento son especificos para cada industria y son obligatorios: SOX, HIPPA, PCI/DSS
+Las buenas practicas ayudan a traducir las necesidades de l negocio en necesodades tecnicas u operativas, buscan mejorar el rendimiento y metricas
+mejores practicas implementar COBIT ITIL ISOs, ISO27000, PMI para evitar cualquier tipo de incidentes de ciberseguridad
+
+GOBIERNO DE TI
+
+Los planes estrategicos establecenn la direccion de la empressa y la estructura de cada uno de los departamentos 
+Los planes tacticos son como podriams alcanzar los objetivo de las estrategias
+Procedimiento es los pasos que debes seguir para obtener algo
+las politicas son las reglas que necesitas entender
+Gobierno es el entendimiento de todas las diferentes partes de laorganizacion con un objetivo unico
+
+RESUMEN DE CUMPIMIENTO Y AUDITORIA
+Metodologia OCTAVE
+Puede ser auditorias externas o internas, las iternas se basan mas en el funcionamiento de los sistemas dudrantes la gestion en cambio las auditorias externas suelen ser para obtener alguna certificacion en caso de que cumplna con todos los requisittos que requiere. para la auditoria se sigue una metodologa:
+PRIMERA FASE: entender la organizaciocon la que se trabaja  entender los jugadore smas importantes, y se creara un perfil de amenza donde mencionara los problomas que podria llegar a tener, eso no significa que los tenga en la actualidad
+FASE DOS: En la fase dos es donde se procede a la evaluacion,
+EVALUACION DE RIESGOS traducira todos los hallasgos mencionados en el informe de auditoria en un riesgo,si es de alto riesgo y si es crtico para la empresa
+
+PROCEDIMIENTO DE PENTEST
+Mile2CPTE es un entrenamiento para seguir un pentesting
+PRUEBAS DE PENETRACION se actua como un atacnte como unhacker que quiere explotar el isstema
+
+footprinting
+scaning
+enumeracion
+penetracion
+
+estos procesos no sinformaran si el sistema es propenso a ataques. Un pentest no es necesariamente una auditoria
+
+FRAMEWOR OWASP
+
+
+
+
+
+
+
+
 
 
 
