@@ -86,8 +86,59 @@ penetracion
 estos procesos no sinformaran si el sistema es propenso a ataques. Un pentest no es necesariamente una auditoria
 
 FRAMEWOR OWASP
+Metodologia que sirve para comprobar la seguridad de un sitio web o alpicacion, Owasp top 10 recopila las 10 bulnerabilidades mas cpmunnes para que cuaqlleuir ppersona pueda realizar pruebas de seguridad al software, lo ideal seria que al momento de la fabricacion del software se tome encuneta estas vulnerabilidadess
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+HERRAMIENTAS
 
+APUNTES MARTES 04 DE AGOSTO DE 2020
+
+HERRAIENTAS
+FIREWALL
+Mecanismos de proteccion que aislan las redes de internas de organizaciones del resto del internet mediante el bloqueo de paquetes de entrada y salida
+previenen ataques de DoS: SYN inundadciones en ataques de conexion TCP
+previenen el acceso o modificacion de informacion interna.- robo de contenido o informacion confidencial
+permiten solo acceso autorizado dentro de la red
+Existen 2 tipos: a nivel de aplicacion y a nivel de filtrado de paquetes
+
+FILTRADO DE PAQUETES
+tecnologia fundamental para la aplicacion de firewalls, se basas en dosparametros
+Direcciones ip origen/destino         
+Protocolo de transporte utilizado    TCP y UDP los mas comunes 
+Numeros de puerto de desrtino    
+
+APLICACION GATEWAY
+
+PUERTA DE ENLACE XML Uno de los perfiles de ataque es que un protocolo está ligeramente fuera de especificación
+
+Cortafuegso sin estado no tiene concepto del estado son solo filtrado de paquetes basan su desicion en capa 3 y 4 (direccion ip y puerto)
+cortafuegos de estado tienen tablas de estado, se les llama firewall de aplicacion, trabajan en la capa 7
+firewall proxy
+
+ANTIVIRUS ANTIMALWARE
+Son softwares que cunetan con una base de dats de los virus mas conocidos provistos por los vendedores, el antivirus se encarga de conparar los hashes de cada archivo y para detectar archivos infectados, ponerlos en cuarentena o eliminarlos por que fueron infectados y pueden propagar el malware
+
+CRIPTOGRAFIA
+Una forma de escritra secreta donde solo el destinatario puede entender el mensaje. cifrado se refiere a que el texto sin formato atravezo el cifrado
+A XOR B = AXORB, existen dos tipos de cifrado, el cifrado de flujo sicfra bit por bit en camio el cifrado de bloque lo hace por bloques de bit,64 bits a la vez
+
+TIPOS DE CRIPTOGRAFIA
+Existen 3 tipos de cifrado moderno: simterico, asimetrico, y hash
+
+simterico:   todo el algoritmo se basa solo en una clve y esa clave debe perteneceren secreto siempre. Mientras mas largo mayor el cifrado
+asimterico:   Utiliza dos claves una clave publica y otra privada que debe mantenerse e secreto con la publica se cifra y laprivada es para desifrar
+hash:         las funciones hash utilizan un algoritmo unidireccional y sin clave, los antiguos son SHA1 y MD5 el mas reciente es SHA2, su cantidad de caracteres es llimitada y la misma para cualquier tipo de archivo lo que suele provocar colisione, 2 documentos diferentesposeen el mismo hash
+
+ATAQUES CRIPTOGRAFICOS
+Fuerza bruta      atauq e de prueba y error
+mesa de arcoiris  son similares pero con una cantidad limitada deinformacion
+ingenieria social Uso de metodos tecicos para obternerlos
+texto plano       obteniendo el texto plano se hace un analisis para comprender el cifrado
+cifrado conocido  lo mismo que lo anterior pero ahora tenemos el texto cifrado
+
+DES y AES
+CRIPTOGRAFIA SIMETRICA    la llave para cifrar y desifrar es unica 
+CRIPTOGRAFIA ASIMTERICA   uso de 4 llaves, 2 publicas y 2 privadas
 
 
 
