@@ -139,6 +139,25 @@ cifrado conocido  lo mismo que lo anterior pero ahora tenemos el texto cifrado
 DES y AES
 CRIPTOGRAFIA SIMETRICA    la llave para cifrar y desifrar es unica 
 CRIPTOGRAFIA ASIMTERICA   uso de 4 llaves, 2 publicas y 2 privadas
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+APUNTES 17 DE AGOSTO 2020
+
+PENTESTING
+pruebas de penetracion para encnontrar vulnerabilidade sen los sistemas
+METODOLOGIAS
+OSSTMM
+NIST pruebsa de seguridad de redes
+ISSAF
+PTES
+
+FASES:
+information gathering
+enumeracion
+evaluacion de vulnerabiidades
+explotacion
+postexplotacion e informes
+
 
 
 
