@@ -1,0 +1,23 @@
+GESTION DE PROCESOS DE NEGOCIO
+los centros de operaciens de seguridad son un conjunto de habilidades y recursos que fucionan para detectar e investigar y detener amenazas 
+Procesos
+Un conjunto de actividades que tienen como objetivo brindar un servicio o un produccto que satisfaga las necesidades del cliente, los procesos suelen tenee las
+siguientes parte: entradas, salidas, bounds/scope, pasos o steps y tamien una documentacion para la comprension de como funciona
+Que hace que n proceso sea exitoso?
+Carta, que explica que hace el proceso Objetivos claros, gobernanza/propiedad, persona responsable de l existo del proceso, repitibilidad, queremos que al salida
+sea la misma todo el tiempo, autimatizacion, para reducir la cantidad de errores, indicadores/metricas de desempenio para poder comprender y mejorarlos
+Metricas: tiempo, costo, calidad, reelaboracion
+ITIL
+es una guia de buenas practicas
+Estrategis de servicio Determina la manera en que ayudaras a los clientes y lo que puedes proporcionar 
+Diseno del servicio.  disenar nuevos servcios asi como cambios a los existentes
+transicion del servicio construir e implementar servicios de TI
+Opraciones del servicio, ejecucion y gesation de eventos, asegurarse de que nuestros servicios de ti funcionen eficaz y eficientemente 
+Mejora continua del servicio, Revision continua de metricas 
+PROCESOS CLAVE DE ITIL
+Gestion de problemas no solo es resolver un problemaque surgio sino determinar cual es la causa para poder minimizar que el eventovuelva a ocurrir 
+gestion de cambios Son cambios den los activos del servicio, garantizar metodos y procedimientos estandarizados para facilitar cambios eficaces
+gestion de incidencias. restaurar aplicaciones de servicio lo mas pronto posible, interrupcion no planificada de un servicio
+gestion  de eventos Un evento indica que algo no funciona bien, creamos y detectamos notificaciones , monitoreo 
+Gestion a nivel de servicio. planificar, coordinar redactar monitoreo e informes sobre sla
+Gestion de la seguridad de informacion. Como estan involucrados los profesionales TI, politicas, objetivos regulaciones 
